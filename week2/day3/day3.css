@@ -1,0 +1,16 @@
+#heading {
+
+    color: rgb(177, 37, 37);
+     font-family: sans-serif;
+     font-size : 16px;
+
+}
+.firstparagraph {
+    color: #000000;;
+    font-style: italic;
+    font-size: 20px;
+}
+.secondparagraph{
+    text-align: center;
+    color:red ;
+}

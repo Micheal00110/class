@@ -1,0 +1,47 @@
+h3{
+ color: aqua;
+}
+p {
+    background-color: antiquewhite;
+}
+h1{
+    color: red;
+    margin-left:20px;
+}
+.image {
+    height: 600px;
+    width: 600px;
+    border-radius: 20px 20px 20px 5px;
+}
+table {
+    border-collapse:collapse ;
+    padding: 20px ;
+    margin: 20px;
+}
+.box {
+    background-color: rgb(0, 255,0);
+    height: 300px;
+    width: 300px;
+    border: solid 2px #ff0000;
+
+} 
+#main-title{
+    color: rgba(255, 0, 0,0.2);
+
+}
+.profile-pic{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+
+}
+#profile-name{
+    color: grey;
+}
+#profile-bio{
+    font-size: 20px;
+    color:rgb(0, 0, 255);
+    
+}
+.navbar{}
